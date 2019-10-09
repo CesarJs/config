@@ -1,0 +1,24 @@
+{
+    "workbench.colorTheme": "Dracula",
+    //tamamho fonte
+    "editor.fontSize": 15,
+    "editor.lineHeight":24,
+    "editor.fontFamily": "Fira Code",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontSize":14 ,
+    "editor.rulers": [80,120],
+    "editor.tabSize": 2,
+    "editor.renderLineHighlight": "gutter",
+    "emmet.includeLanguages":{
+        "javascript": "javascriptreact"
+    },
+    "emmet.includeLanguages":{
+        "javascript": "jsx"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "editor.parameterHints.enabled": false,
+    "breadcrumbs.enabled": true,
+    "javascript.suggest.autoImports": false,
+
+}
