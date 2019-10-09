@@ -109,6 +109,8 @@ SPACESHIP_PROMPT_ORDER=(
   jobs
   exit_code
   char
+  node 
+  php
 )
 
 SPACESHIP_PROMPT_ADD_NEWLINE=false
